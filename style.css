@@ -1,0 +1,54 @@
+body {
+    
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: ;
+    
+}
+
+.card {
+   
+    margin: auto;
+  }
+
+.card-body {
+
+text-align: justify;
+
+}
+
+
+.card-title {
+
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+.foto {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+
+}
+
+
+.boton {
+    
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        }
+
+
+
+
+
